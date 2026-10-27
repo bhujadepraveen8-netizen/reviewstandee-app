@@ -1,0 +1,6 @@
+{
+  "name": "ReviewStandee - B2B Google Reviews QR Standee SaaS",
+  "description": "B2B SaaS platform for restaurants and retail to boost Google Reviews with smart QR standees, intercept negative feedback privately, and monitor real-time scan analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
